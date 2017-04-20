@@ -1,0 +1,10 @@
+{
+    "name": "danielpavey/deployer.test",
+    "authors": [
+        {
+            "name": "danielpavey",
+            "email": "daniel.pavey@axminster.co.uk"
+        }
+    ],
+    "require": {}
+}
