@@ -6,5 +6,7 @@
             "email": "daniel.pavey@axminster.co.uk"
         }
     ],
-    "require": {}
+    "require": {
+        "league/booboo": "^1.0"
+    }
 }
